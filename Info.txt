@@ -1,0 +1,5 @@
+Student_id : 2313110120
+Student Name : Panitta
+Major : IT
+Level : 1
+Faculty : Information Technology
